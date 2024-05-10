@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250793583570",
+    "project_id": "pdf-app-582c9",
+    "storage_bucket": "pdf-app-582c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250793583570:android:8ac1f0a3d52df0a1b5de0b",
+        "android_client_info": {
+          "package_name": "com.example.pdfapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCHEmiythAOIuDlcBkpri0mWam9sDNrKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

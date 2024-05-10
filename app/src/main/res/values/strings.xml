@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PDF App</string>
+    <string name="no_pdf_file_selected_yet">No PDF File Selected yet !</string>
+</resources>
